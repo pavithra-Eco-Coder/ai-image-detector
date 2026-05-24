@@ -88,7 +88,7 @@ ai-image-detector/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-image-detector.git
+git clone https://github.com/pavithra-Eco-Coder/ai-image-detector.git
 cd ai-image-detector
 ```
 
