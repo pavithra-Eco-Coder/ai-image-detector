@@ -92,7 +92,7 @@ def main():
         with col1:
             st.markdown("#### Original Image")
             image = Image.open(uploaded_file)
-            st.image(image, use_column_width=True)
+            st.image(image, use_container_width=True)
         
         with st.spinner("🔍 Analyzing image..."):
             predicted_class, confidence, all_probabilities = predict_image(
